@@ -1,2 +1,4 @@
 MH
-this is to create a merge conflict
+hi there
+GoodBye
+Maggie works
